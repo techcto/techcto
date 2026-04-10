@@ -1,6 +1,6 @@
 # 👋 Hey, I'm @techcto
 
-I build production-ready infrastructure for AI agents and developer workflows.
+I build production-ready AI agent infrastructure for real-world systems.
 
 ## 🚀 What I Do
 - MCP servers & integrations
@@ -24,5 +24,5 @@ If you're building with AI and need production-ready infrastructure:
 
 Open to:
 - Consulting
-- System design & architecture
-- Custom AI tooling & integrations
+- System architecture & design
+- Custom AI integrations
