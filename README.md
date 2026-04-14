@@ -4,13 +4,13 @@ I build production-ready AI agent infrastructure for real-world systems.
 
 ## 🚀 What I Do
 - MCP servers & integrations
-- AI agent systems (Claude, Codex, etc.)
+- AI agent systems (Codex, etc.)
 - Dev tooling for AI workflows
 - Backend/platform architecture
 
 ## 🔧 Featured Project
 ### Codex Bridge
-Bridge between Codex and MCP clients (Claude, VS Code, etc.) for real-world AI workflows
+Bridge between Codex and MCP clients (VS Code, etc.) for real-world AI workflows
 
 → https://github.com/techcto/codex-bridge
 
